@@ -7,4 +7,4 @@
 
 ![Русский язык RU Git GUI (Git Bash и Gitk)](https://ukazov.ru/wa-data/public/photos/95/18/1895/1895.970.png)
 
-Боле подробный рецепт можно почитать [здесь](https://ukazov.ru/blog/computer/russian-git/)
+Боле подробный рецепт можно почитать [здесь](https://ukazov.ru/computer-hub/12/russian-git/)
